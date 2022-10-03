@@ -1,9 +1,10 @@
 ## Windows
+
 Credits and Payloads from:
-https://github.com/DragonJAR/Security-Wordlist/blob/main/LFI-WordList-Windows
-https://github.com/infosec-au/fuzzdb/blob/master/attack-payloads/lfi/common-windows-files.txt
-https://raw.githubusercontent.com/tennc/fuzzdb/master/dict/BURP-PayLoad/LFI/LFI-WinblowsFileCheck.txt
-https://ed4m4s.blog/tools/local-file-inclusion
+- https://github.com/DragonJAR/Security-Wordlist/blob/main/LFI-WordList-Windows
+- https://github.com/infosec-au/fuzzdb/blob/master/attack-payloads/lfi/common-windows-files.txt
+- https://raw.githubusercontent.com/tennc/fuzzdb/master/dict/BURP-PayLoad/LFI/LFI-WinblowsFileCheck.txt
+- https://ed4m4s.blog/tools/local-file-inclusion
 
 ```
 \apache2\log\access.log
